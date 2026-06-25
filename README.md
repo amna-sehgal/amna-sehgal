@@ -19,7 +19,7 @@ I am Amna Sehgal, a second-year B.Tech CSE (AI) student at IGDTUW, Delhi, passio
 
 <p align="left">
   <img src="gssoc-badge-rising_star (1).png" width="120"/>
-  <img src="gsooc-badge-power_contributor.png" width="120"/>
+  <img src="gssoc-badge-power_contributor.png" width="120"/>
   <img src="gssoc-badge-on_a_roll.png" width="120"/>
   <img src="gssoc-badge-elite.png" width="120"/>
   <img src="gssoc-badge-building_momentum.png" width="120"/>
