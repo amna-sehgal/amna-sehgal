@@ -15,6 +15,16 @@ I am Amna Sehgal, a second-year B.Tech CSE (AI) student at IGDTUW, Delhi, passio
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=amna-sehgal&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
+## 🏅 GSSoC Badges
+
+<p align="left">
+  <img src="gssoc-badge-rising_star (1).png" width="120"/>
+  <img src="gsooc-badge-power_contributor.png" width="120"/>
+  <img src="gssoc-badge-on_a_roll.png" width="120"/>
+  <img src="gssoc-badge-elite.png" width="120"/>
+  <img src="gssoc-badge-building_momentum.png" width="120"/>
+</p>
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=amna-sehgal&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
